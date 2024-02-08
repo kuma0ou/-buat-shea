@@ -1,1 +1,1 @@
-# -buat-shea
+# buat.shea.io
